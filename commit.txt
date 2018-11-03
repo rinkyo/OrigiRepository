@@ -3,4 +3,11 @@ commit something
 commit second 
 
 commit third
+<<<<<<< HEAD
 add something
+=======
+
+commit fours
+
+commit five
+>>>>>>> commit five
