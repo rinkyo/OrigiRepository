@@ -17,6 +17,4 @@ add add add
 
 add123456789
 
-add abcdefgh
-
 commit abc
